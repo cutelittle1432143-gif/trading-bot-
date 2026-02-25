@@ -1,0 +1,859 @@
+2026-02-25 16:05:48 │ anti_gravity.main              │ INFO    │ ═══ BACKTEST  RELIANCE.NS  period=6mo  interval=1d ═══
+2026-02-25 16:05:48 │ anti_gravity.data              │ INFO    │ Fetching RELIANCE.NS | period=6mo interval=1d
+2026-02-25 16:06:00 │ anti_gravity.data              │ INFO    │ Fetched 127 candles for RELIANCE.NS
+2026-02-25 16:06:00 │ anti_gravity.features          │ INFO    │ Computed indicators — 127 rows
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 68.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 60.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 63.4 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 64.3 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 68.1 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 67.9 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 69.6 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 69.3 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 69.5 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 69.2 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — EMA20 > EMA50 (bullish trend) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — EMA20 > EMA50 (bullish trend) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 68.5 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 69.4 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — EMA20 > EMA50 (bullish trend) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — EMA20 > EMA50 (bullish trend) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — EMA20 > EMA50 (bullish trend) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — EMA20 > EMA50 (bullish trend) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 62.3 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 59.0 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 57.6 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 59.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 60.0 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 53.6 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 56.4 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 59.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 62.9 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 62.7 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 55.7 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 56.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 56.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 63.9 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 66.9 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 64.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 57.7 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 58.1 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 51.6 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 49.0 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 60.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 61.7 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 66.2 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 59.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 39.4 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 38.7 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 32.6 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 34.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 36.8 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (50%) — EMA20 > EMA50 (bullish trend) | RSI 31.6 < 70 (not overbought)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (50%) — EMA20 > EMA50 (bullish trend) | RSI 33.6 < 70 (not overbought)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 51.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 53.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 52.1 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 54.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:06:00 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:06:00 │ anti_gravity.main              │ INFO    │ Trade log saved → D:\all projects\TRADING BOT\anti_gravity\logs\backtest_RELIANCE_NS.csv
+2026-02-25 16:26:47 │ anti_gravity.main              │ INFO    │ ═══ LIVE PAPER TRADING  RELIANCE.NS  interval=1d ═══
+2026-02-25 16:26:47 │ anti_gravity.data              │ INFO    │ Live fetch RELIANCE.NS | interval=1d
+2026-02-25 16:26:47 │ anti_gravity.data              │ INFO    │ Fetching RELIANCE.NS | period=1d interval=1d
+2026-02-25 16:26:49 │ anti_gravity.data              │ INFO    │ Fetched 1 candles for RELIANCE.NS
+2026-02-25 16:26:49 │ anti_gravity.main              │ ERROR   │ Error in trading loop: index 13 is out of bounds for axis 0 with size 1
+Traceback (most recent call last):
+  File "D:\all projects\TRADING BOT\anti_gravity\main.py", line 131, in run_live
+    df = compute_indicators(
+         ^^^^^^^^^^^^^^^^^^^
+  File "D:\all projects\TRADING BOT\anti_gravity\features\indicators.py", line 71, in compute_indicators
+    df["ATR"] = ta.volatility.average_true_range(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\ta\volatility.py", line 491, in average_true_range
+    indicator = AverageTrueRange(
+                ^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\ta\volatility.py", line 44, in __init__
+    self._run()
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\ta\volatility.py", line 50, in _run
+    atr[self._window - 1] = true_range[0 : self._window].mean()
+    ~~~^^^^^^^^^^^^^^^^^^
+IndexError: index 13 is out of bounds for axis 0 with size 1
+2026-02-25 16:33:03 │ anti_gravity.main              │ INFO    │ ═══ LIVE PAPER TRADING  RELIANCE.NS  interval=1d ═══
+2026-02-25 16:33:03 │ anti_gravity.data              │ INFO    │ Live fetch RELIANCE.NS | interval=1d lookback=3mo
+2026-02-25 16:33:03 │ anti_gravity.data              │ INFO    │ Fetching RELIANCE.NS | period=3mo interval=1d
+2026-02-25 16:33:05 │ anti_gravity.data              │ INFO    │ Fetched 65 candles for RELIANCE.NS
+2026-02-25 16:33:05 │ anti_gravity.features          │ INFO    │ Computed indicators — 65 rows
+2026-02-25 16:33:05 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:33:05 │ anti_gravity.main              │ INFO    │ Cycle complete | Signal=SELL (70%) | Capital=₹10,000.00 | Daily PnL=₹0.00
+2026-02-25 16:33:37 │ anti_gravity.main              │ INFO    │ Shutting down Anti-Gravity…
+2026-02-25 16:38:10 │ anti_gravity.main              │ INFO    │ ═══ BACKTEST  TCS.NS  period=6mo  interval=1d ═══
+2026-02-25 16:38:10 │ anti_gravity.data              │ INFO    │ Fetching TCS.NS | period=6mo interval=1d
+2026-02-25 16:38:13 │ anti_gravity.data              │ INFO    │ Fetched 127 candles for TCS.NS
+2026-02-25 16:38:13 │ anti_gravity.features          │ INFO    │ Computed indicators — 127 rows
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 53.5 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 62.9 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 59.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 59.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 58.4 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 55.9 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 62.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 62.3 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 62.9 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 61.1 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 57.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 62.4 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 57.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 57.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 57.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 57.4 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 63.5 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 68.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 69.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 69.3 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 62.9 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 59.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 59.4 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 63.3 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 64.6 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 58.9 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 60.8 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 68.5 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 68.6 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — EMA20 > EMA50 (bullish trend) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 69.3 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — EMA20 > EMA50 (bullish trend) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 61.6 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 56.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 55.3 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 48.4 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 51.8 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 55.3 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 49.6 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 55.3 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 60.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 47.3 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 47.9 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 51.9 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 55.3 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 46.1 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 46.1 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 54.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 49.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 43.3 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 45.7 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 48.9 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 50.3 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 49.8 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 54.6 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 48.0 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 45.8 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 51.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 56.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (50%) — EMA20 > EMA50 (bullish trend) | RSI 37.8 < 70 (not overbought)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (50%) — EMA20 > EMA50 (bullish trend) | RSI 37.3 < 70 (not overbought)
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:13 │ anti_gravity.main              │ INFO    │ Trade log saved → D:\all projects\TRADING BOT\anti_gravity\logs\backtest_TCS_NS.csv
+2026-02-25 16:38:13 │ anti_gravity.main              │ INFO    │ ═══ BACKTEST  INFY.NS  period=6mo  interval=1d ═══
+2026-02-25 16:38:13 │ anti_gravity.data              │ INFO    │ Fetching INFY.NS | period=6mo interval=1d
+2026-02-25 16:38:14 │ anti_gravity.data              │ INFO    │ Fetched 127 candles for INFY.NS
+2026-02-25 16:38:14 │ anti_gravity.features          │ INFO    │ Computed indicators — 127 rows
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 59.6 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 62.9 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 66.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 63.5 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 52.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 53.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 48.6 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 59.3 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 58.2 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 59.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 60.3 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 55.6 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 60.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 62.2 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 60.4 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 61.1 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 60.2 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 63.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 67.1 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — EMA20 > EMA50 (bullish trend) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 68.1 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 64.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 59.4 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 62.1 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 62.2 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 64.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 59.0 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 61.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 66.3 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 68.5 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — EMA20 > EMA50 (bullish trend) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 68.6 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 67.1 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 64.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 61.1 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 54.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 52.9 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 56.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 58.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 49.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 50.9 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 56.8 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 50.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 50.7 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 46.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 47.3 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 47.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 47.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 66.0 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 63.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 58.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 56.9 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 58.6 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 60.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 62.2 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 57.5 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 55.6 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 50.8 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 48.0 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 54.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (50%) — EMA20 > EMA50 (bullish trend) | RSI 34.2 < 70 (not overbought)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (50%) — EMA20 > EMA50 (bullish trend) | RSI 32.5 < 70 (not overbought)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (50%) — EMA20 > EMA50 (bullish trend) | RSI 31.1 < 70 (not overbought)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (50%) — EMA20 > EMA50 (bullish trend) | RSI 30.1 < 70 (not overbought)
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:14 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:14 │ anti_gravity.main              │ INFO    │ Trade log saved → D:\all projects\TRADING BOT\anti_gravity\logs\backtest_INFY_NS.csv
+2026-02-25 16:38:14 │ anti_gravity.main              │ INFO    │ ═══ BACKTEST  HDFCBANK.NS  period=6mo  interval=1d ═══
+2026-02-25 16:38:14 │ anti_gravity.data              │ INFO    │ Fetching HDFCBANK.NS | period=6mo interval=1d
+2026-02-25 16:38:15 │ anti_gravity.data              │ INFO    │ Fetched 127 candles for HDFCBANK.NS
+2026-02-25 16:38:15 │ anti_gravity.features          │ INFO    │ Computed indicators — 127 rows
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 48.3 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 46.8 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 48.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 53.7 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 51.9 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 49.7 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 52.0 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 57.0 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 53.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 55.0 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 63.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 55.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 55.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 49.1 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 57.3 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 60.1 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 58.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 54.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 47.1 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 53.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 51.3 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 54.6 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 54.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 50.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 46.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 52.5 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 53.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 49.7 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 48.6 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 42.6 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (50%) — EMA20 > EMA50 (bullish trend) | RSI 40.4 < 70 (not overbought)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 44.6 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 46.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 52.0 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 52.4 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 48.9 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 48.6 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 48.0 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 48.3 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 48.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 56.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (50%) — EMA20 > EMA50 (bullish trend) | RSI 40.4 < 70 (not overbought)
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:15 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.main              │ INFO    │ Trade log saved → D:\all projects\TRADING BOT\anti_gravity\logs\backtest_HDFCBANK_NS.csv
+2026-02-25 16:38:16 │ anti_gravity.main              │ INFO    │ ═══ BACKTEST  ICICIBANK.NS  period=6mo  interval=1d ═══
+2026-02-25 16:38:16 │ anti_gravity.data              │ INFO    │ Fetching ICICIBANK.NS | period=6mo interval=1d
+2026-02-25 16:38:16 │ anti_gravity.data              │ INFO    │ Fetched 127 candles for ICICIBANK.NS
+2026-02-25 16:38:16 │ anti_gravity.features          │ INFO    │ Computed indicators — 127 rows
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 56.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 54.5 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 54.5 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 57.3 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 55.9 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 56.3 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 55.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 53.9 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 55.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 54.6 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (50%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 67.3 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (40%) — No strong trend — staying flat
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — EMA20 > EMA50 (bullish trend) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 59.1 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 61.3 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 66.5 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 59.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 59.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 57.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 47.6 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (50%) — EMA20 > EMA50 (bullish trend) | RSI 46.3 < 70 (not overbought)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (50%) — EMA20 > EMA50 (bullish trend) | RSI 39.7 < 70 (not overbought)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (50%) — EMA20 > EMA50 (bullish trend) | RSI 38.9 < 70 (not overbought)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (50%) — EMA20 > EMA50 (bullish trend) | RSI 38.5 < 70 (not overbought)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (70%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative | Price below VWAP
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — EMA20 < EMA50 (bearish crossover) | MACD histogram negative
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 58.0 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 54.6 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 56.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 53.9 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 56.4 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 56.2 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 61.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 56.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 55.8 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 54.5 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 54.7 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (90%) — EMA20 > EMA50 (bullish trend) | RSI 48.4 < 70 (not overbought) | MACD histogram positive (momentum) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 50.2 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 51.8 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 47.0 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — EMA20 > EMA50 (bullish trend) | RSI 52.1 < 70 (not overbought) | Price above VWAP (institutional support)
+2026-02-25 16:38:16 │ anti_gravity.main              │ INFO    │ Trade log saved → D:\all projects\TRADING BOT\anti_gravity\logs\backtest_ICICIBANK_NS.csv
+2026-02-25 16:52:22 │ anti_gravity.main              │ INFO    │ ═══ BACKTEST  RELIANCE.NS  period=6mo  interval=1d ═══
+2026-02-25 16:52:22 │ anti_gravity.data              │ INFO    │ Fetching RELIANCE.NS | period=6mo interval=1d
+2026-02-25 16:52:23 │ anti_gravity.data              │ INFO    │ Fetched 127 candles for RELIANCE.NS
+2026-02-25 16:52:23 │ anti_gravity.features          │ INFO    │ Computed indicators — 127 rows
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — Strong uptrend (EMA spread 2.00%) | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 2.02%) | RSI 60.8 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — Strong uptrend (EMA spread 2.48%) | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — Strong uptrend (EMA spread 2.70%) | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — Strong uptrend (EMA spread 2.80%) | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — Strong uptrend (EMA spread 2.83%) | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — Strong uptrend (EMA spread 2.86%) | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — Strong uptrend (EMA spread 2.99%) | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 3.13%) | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 2.80%) | RSI 60.0 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 2.54%) | RSI 59.2 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 2.52%) | RSI 62.9 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 2.42%) | RSI 55.7 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 2.28%) | RSI 63.9 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 1.99%) | RSI 49.0 has room to run | RSI 49.0 recovering from low levels | Price above VWAP | Near lower Bollinger (31%)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 2.01%) | RSI 61.7 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 2.07%) | RSI 59.8 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 1.80%) | RSI 39.4 has room to run | RSI 39.4 recovering from low levels | Price above VWAP | Near lower Bollinger (-11%)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 1.55%) | RSI 38.7 has room to run | RSI 38.7 recovering from low levels | Price above VWAP | Near lower Bollinger (-7%)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 1.20%) | RSI 32.6 has room to run | RSI 32.6 recovering from low levels | Price above VWAP | Near lower Bollinger (-21%)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.91%) | RSI 34.2 has room to run | RSI 34.2 recovering from low levels | Price above VWAP | Near lower Bollinger (-5%)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 0.69%) | RSI 36.8 has room to run | RSI 36.8 recovering from low levels | Price above VWAP | Near lower Bollinger (7%) | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.62%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.99%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -1.26%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — Strong downtrend (EMA spread -1.50%) | MACD bearish crossover | Price below VWAP
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -1.77%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -2.02%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — Strong downtrend (EMA spread -2.32%) | MACD bearish crossover | Price below VWAP
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -2.42%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — RSI 41.8 has room to run | RSI 41.8 recovering from low levels | MACD bullish crossover confirmed | Near lower Bollinger (36%) | Previous candle bullish
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:23 │ anti_gravity.main              │ INFO    │ Trade log saved → D:\all projects\TRADING BOT\anti_gravity\logs\backtest_RELIANCE_NS.csv
+2026-02-25 16:52:23 │ anti_gravity.main              │ INFO    │ ═══ BACKTEST  TCS.NS  period=6mo  interval=1d ═══
+2026-02-25 16:52:23 │ anti_gravity.data              │ INFO    │ Fetching TCS.NS | period=6mo interval=1d
+2026-02-25 16:52:24 │ anti_gravity.data              │ INFO    │ Fetched 127 candles for TCS.NS
+2026-02-25 16:52:24 │ anti_gravity.features          │ INFO    │ Computed indicators — 127 rows
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.52%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 0.50%) | RSI 62.3 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.74%) | RSI 57.0 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.85%) | RSI 62.4 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.93%) | RSI 57.8 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.95%) | RSI 57.0 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.96%) | RSI 57.4 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — Strong uptrend (EMA spread 1.22%) | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — Strong uptrend (EMA spread 1.49%) | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 1.55%) | RSI 59.0 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 1.60%) | RSI 63.3 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 1.65%) | RSI 64.6 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 1.64%) | RSI 58.9 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — Strong uptrend (EMA spread 1.77%) | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — Strong uptrend (EMA spread 1.87%) | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 2.02%) | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 2.20%) | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — Strong uptrend (EMA spread 1.86%) | RSI 51.8 has room to run | Price above VWAP | Near lower Bollinger (39%)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 1.72%) | RSI 60.2 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 1.42%) | RSI 51.9 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 1.42%) | RSI 55.3 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 1.17%) | RSI 46.1 has room to run | RSI 46.1 recovering from low levels | Price above VWAP | Near lower Bollinger (13%)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 1.11%) | RSI 49.5 has room to run | RSI 49.5 recovering from low levels | Price above VWAP | Near lower Bollinger (33%)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.82%) | RSI 45.7 has room to run | RSI 45.7 recovering from low levels | Price above VWAP | Near lower Bollinger (16%)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 0.74%) | RSI 50.3 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.58%) | RSI 45.8 has room to run | RSI 45.8 recovering from low levels | Price above VWAP | Near lower Bollinger (20%)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.59%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.78%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -1.63%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -2.21%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — Strong downtrend (EMA spread -2.68%) | MACD bearish crossover | Price below VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — Strong downtrend (EMA spread -3.07%) | MACD bearish crossover | Price below VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — Strong downtrend (EMA spread -3.44%) | MACD bearish crossover | Price below VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -3.79%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -4.07%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — Strong downtrend (EMA spread -4.32%) | MACD bearish crossover | Price below VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -4.72%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -4.95%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.main              │ INFO    │ Trade log saved → D:\all projects\TRADING BOT\anti_gravity\logs\backtest_TCS_NS.csv
+2026-02-25 16:52:24 │ anti_gravity.main              │ INFO    │ ═══ BACKTEST  INFY.NS  period=6mo  interval=1d ═══
+2026-02-25 16:52:24 │ anti_gravity.data              │ INFO    │ Fetching INFY.NS | period=6mo interval=1d
+2026-02-25 16:52:24 │ anti_gravity.data              │ INFO    │ Fetched 127 candles for INFY.NS
+2026-02-25 16:52:24 │ anti_gravity.features          │ INFO    │ Computed indicators — 127 rows
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 0.70%) | RSI 63.5 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.71%) | RSI 53.7 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.78%) | RSI 59.3 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 0.89%) | RSI 58.2 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 1.00%) | RSI 59.7 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 1.11%) | RSI 60.3 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 1.14%) | RSI 55.6 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 1.39%) | RSI 62.2 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 1.55%) | RSI 61.1 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — Strong uptrend (EMA spread 1.86%) | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — Strong uptrend (EMA spread 2.06%) | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 2.26%) | RSI 64.0 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 2.30%) | RSI 62.1 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 2.33%) | RSI 62.2 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — Strong uptrend (EMA spread 2.44%) | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — Strong uptrend (EMA spread 2.54%) | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 3.08%) | RSI 64.7 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 3.06%) | RSI 61.1 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 2.57%) | RSI 49.5 has room to run | RSI 49.5 recovering from low levels | Price above VWAP | Near lower Bollinger (34%) | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — Strong uptrend (EMA spread 2.44%) | RSI 50.9 has room to run | Price above VWAP | Near lower Bollinger (39%)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 2.41%) | RSI 56.8 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — Strong uptrend (EMA spread 2.18%) | RSI 50.7 has room to run | Price above VWAP | Near lower Bollinger (35%)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 1.62%) | RSI 47.5 has room to run | RSI 47.5 recovering from low levels | Price above VWAP | Near lower Bollinger (22%) | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 2.01%) | RSI 58.0 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 2.01%) | RSI 56.9 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 2.04%) | RSI 58.6 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 2.09%) | RSI 60.0 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 2.02%) | RSI 50.8 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — Strong uptrend (EMA spread 1.40%) | RSI 34.2 has room to run | RSI 34.2 recovering from low levels | Near lower Bollinger (-17%)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — Strong uptrend (EMA spread 0.95%) | RSI 32.5 has room to run | RSI 32.5 recovering from low levels | Near lower Bollinger (-11%)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — Strong uptrend (EMA spread 0.51%) | RSI 31.1 has room to run | RSI 31.1 recovering from low levels | Near lower Bollinger (-6%)
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.69%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -1.36%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -2.00%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — Strong downtrend (EMA spread -2.56%) | MACD bearish crossover | Price below VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -2.96%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — Strong downtrend (EMA spread -3.36%) | MACD bearish crossover | Price below VWAP
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -3.72%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -4.08%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -4.48%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -5.02%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -5.42%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:24 │ anti_gravity.main              │ INFO    │ Trade log saved → D:\all projects\TRADING BOT\anti_gravity\logs\backtest_INFY_NS.csv
+2026-02-25 16:52:24 │ anti_gravity.main              │ INFO    │ ═══ BACKTEST  HDFCBANK.NS  period=6mo  interval=1d ═══
+2026-02-25 16:52:24 │ anti_gravity.data              │ INFO    │ Fetching HDFCBANK.NS | period=6mo interval=1d
+2026-02-25 16:52:25 │ anti_gravity.data              │ INFO    │ Fetched 127 candles for HDFCBANK.NS
+2026-02-25 16:52:25 │ anti_gravity.features          │ INFO    │ Computed indicators — 127 rows
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 0.70%) | RSI 46.8 has room to run | RSI 46.8 recovering from low levels | Price above VWAP | Near lower Bollinger (28%) | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — Strong uptrend (EMA spread 0.62%) | RSI 51.9 has room to run | Price above VWAP | Near lower Bollinger (39%) | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — Strong uptrend (EMA spread 0.57%) | RSI 52.0 has room to run | Price above VWAP | Near lower Bollinger (35%) | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 0.59%) | RSI 57.0 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 0.58%) | RSI 53.5 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 0.67%) | RSI 63.8 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 0.68%) | RSI 55.0 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.69%) | RSI 55.7 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 0.78%) | RSI 58.7 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 0.78%) | RSI 54.8 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.71%) | RSI 47.1 has room to run | RSI 47.1 recovering from low levels | Price above VWAP | Near lower Bollinger (36%)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 0.70%) | RSI 53.2 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 0.68%) | RSI 51.3 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 0.66%) | RSI 50.5 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 0.59%) | RSI 46.2 has room to run | RSI 46.2 recovering from low levels | Price above VWAP | Near lower Bollinger (20%) | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 0.58%) | RSI 53.2 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.55%) | RSI 49.7 has room to run | RSI 49.7 recovering from low levels | Price above VWAP | Near lower Bollinger (37%)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 0.51%) | RSI 48.6 has room to run | RSI 48.6 recovering from low levels | Price above VWAP | Near lower Bollinger (28%) | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 0.41%) | RSI 42.6 has room to run | RSI 42.6 recovering from low levels | Price above VWAP | Near lower Bollinger (-6%) | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (60%) — Strong uptrend (EMA spread 0.31%) | RSI 40.4 has room to run | RSI 40.4 recovering from low levels | Near lower Bollinger (-10%)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.32%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.53%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — Strong downtrend (EMA spread -0.75%) | MACD bearish crossover | Price below VWAP
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.95%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -1.13%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -1.34%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -1.52%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — Strong downtrend (EMA spread -1.65%) | MACD bearish crossover | Price below VWAP
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — Strong downtrend (EMA spread -1.76%) | MACD bearish crossover | Price below VWAP
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -1.84%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — Strong downtrend (EMA spread -1.97%) | MACD bearish crossover | Price below VWAP
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -2.08%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -2.18%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -2.21%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -1.80%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -1.78%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -1.82%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -1.86%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.main              │ INFO    │ Trade log saved → D:\all projects\TRADING BOT\anti_gravity\logs\backtest_HDFCBANK_NS.csv
+2026-02-25 16:52:25 │ anti_gravity.main              │ INFO    │ ═══ BACKTEST  ICICIBANK.NS  period=6mo  interval=1d ═══
+2026-02-25 16:52:25 │ anti_gravity.data              │ INFO    │ Fetching ICICIBANK.NS | period=6mo interval=1d
+2026-02-25 16:52:25 │ anti_gravity.data              │ INFO    │ Fetched 127 candles for ICICIBANK.NS
+2026-02-25 16:52:25 │ anti_gravity.features          │ INFO    │ Computed indicators — 127 rows
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -1.35%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -1.39%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — Strong downtrend (EMA spread -1.32%) | MACD bearish crossover | Price below VWAP
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.43%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (55%) — Strong downtrend (EMA spread -0.46%) | MACD bearish crossover | Price below VWAP
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.53%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.60%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.66%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.71%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: SELL (60%) — Strong downtrend (EMA spread -0.75%) | MACD bearish crossover | Price below VWAP | Previous candle bearish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.37%) | RSI 61.3 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — Strong uptrend (EMA spread 0.58%) | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (80%) — Strong uptrend (EMA spread 0.72%) | RSI 47.6 has room to run | RSI 47.6 recovering from low levels | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (65%) — Strong uptrend (EMA spread 0.42%) | RSI 39.7 has room to run | RSI 39.7 recovering from low levels | Near lower Bollinger (24%) | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.55%) | RSI 61.8 has room to run | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 0.62%) | RSI 56.8 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — R:R too low (1.5x)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (75%) — Strong uptrend (EMA spread 0.70%) | RSI 54.7 has room to run | MACD bullish crossover confirmed | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (80%) — Strong uptrend (EMA spread 0.64%) | RSI 48.4 has room to run | RSI 48.4 recovering from low levels | MACD bullish crossover confirmed | Price above VWAP
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (55%) — Strong uptrend (EMA spread 0.59%) | RSI 51.8 has room to run | Price above VWAP | Previous candle bullish
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: BUY (70%) — Strong uptrend (EMA spread 0.52%) | RSI 47.0 has room to run | RSI 47.0 recovering from low levels | Price above VWAP | Near lower Bollinger (36%)
+2026-02-25 16:52:25 │ anti_gravity.strategy          │ INFO    │ Signal: HOLD (0%) — No high-probability setup — staying flat
+2026-02-25 16:52:25 │ anti_gravity.main              │ INFO    │ Trade log saved → D:\all projects\TRADING BOT\anti_gravity\logs\backtest_ICICIBANK_NS.csv
